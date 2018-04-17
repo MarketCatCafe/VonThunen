@@ -1,6 +1,27 @@
+img {
+    width: auto;
+}
 body {
-    background-image: url(https://www.deviantart.com/tag/heathers);
+    text-align: center;
+    background-image: url(http://blog.nakedapartments.com.s3.amazonaws.com/blog/wp-content/uploads/2013/11/Shards-of-Glass-Crazy-Roommate.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
+    font-size: 26px;
+}
+button {
+    font-size: 36px;
+    text-align: center;
+    color: White;
+    font-family: verdana;
+    border-color: black;
+    background-color: Navy;
+    border-width: 5px;
+    padding: 7px 14px;
+}
+h1 {
+    font-family: verdana;
+    color: black;
+    font-size: 24px;
 }
